@@ -128,4 +128,4 @@ Si necesitas trabajar con Ubuntu, gestionar entornos virtuales de Python y usar 
 ---
 
 🎉 **¡Listo! Ahora tienes un entorno de desarrollo completo con Ubuntu, Python y PostgreSQL en Windows 11.** Si esta guía te ayudó, ¡compártela con otros! 🚀
-
+    ** No olvides darle una estrellita al repositorio!
